@@ -24,6 +24,8 @@ default text
 # Examples
 All examples is dir 'Examples'
 
+![изображение](https://github.com/KriperPlay/TOL/assets/92634754/5ad3b5b8-bee4-4af2-b72b-9f74c9bcb12e)
+
 # Need to install
 * python3 and pip
 * Tkinter py lib
