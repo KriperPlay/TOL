@@ -22,7 +22,7 @@ default text
 * file must be a .tol
 
 # Examples
-All examples is dir 'Examples'
+All examples in dir 'Examples'
 
 ![изображение](https://github.com/KriperPlay/TOL/assets/92634754/5ad3b5b8-bee4-4af2-b72b-9f74c9bcb12e)
 
