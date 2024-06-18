@@ -30,7 +30,7 @@ All examples is dir 'Examples'
 * python3 and pip
 * Tkinter py lib
 * PIL/pillow py lib
-* webbrowser pyt lib
+* webbrowser py lib
 
 # How to run
 ```
